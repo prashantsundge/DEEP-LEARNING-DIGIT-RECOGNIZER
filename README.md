@@ -1,9 +1,4 @@
-# DEEP-LEARNING-DIGIT-RECOGNIZER
 
-
-Certainly! Below is a sample GitHub README file for your deep learning project on digit recognition using TensorFlow and Keras:
-
-```markdown
 # Deep Learning Digit Recognizer
 
 ## Overview
@@ -52,6 +47,3 @@ The notebook includes code for plotting loss and accuracy over training epochs. 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Remember to replace the placeholder sections such as the project overview, prerequisites, and usage instructions with specific details related to your project. You can also include additional sections or information based on your project's requirements.
